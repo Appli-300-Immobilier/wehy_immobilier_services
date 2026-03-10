@@ -56,7 +56,7 @@ const Quote = () => {
           <div className="text-right">
             <h2 className="text-xl font-bold">Wehy immobilier services</h2>
             <p className="text-sm text-secondary">Douala, Cameroun</p>
-            <p className="text-sm text-secondary">contact@wehyimmobilierservices.cm</p>
+            <p className="text-sm text-secondary">contact@wehyimmobilieréservices.cm</p>
             <p className="text-sm text-secondary">+237 6XX XX XX XX</p>
           </div>
         </div>
